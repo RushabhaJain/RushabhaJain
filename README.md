@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RushabhaJain
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Solving real world problems
 - 🌱 I’m currently learning Golang
 - 📫 Reach out me by sending mail on "rushabhajain44@gmail.com"
 
